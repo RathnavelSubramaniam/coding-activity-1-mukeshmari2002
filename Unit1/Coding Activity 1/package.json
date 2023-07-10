@@ -1,0 +1,15 @@
+{
+  "name": "coding-activity-1",
+  "version": "1.0.0",
+  "description": "set up with express server\r hello \r how r u",
+  "main": "simple-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node simple-server"
+  },
+  "author": "mukesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
